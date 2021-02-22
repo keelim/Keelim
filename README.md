@@ -12,4 +12,4 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkeelim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<script src="https://embed.github.com/view/3d/keelim/keelim/master/keelim-2020.stl"></script>
+![2020](2020.png)
