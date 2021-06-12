@@ -5,7 +5,7 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=h00335)](https://solved.ac/h00335)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keelim&layout=compact&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keelim&layout=compact&theme=radical)]
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=keelim&theme=onedark)]
 
