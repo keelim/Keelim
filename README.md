@@ -32,6 +32,7 @@
 - Flow(StateFlow, SharedFlow)
 - Hilt
 - Clean Architecture
+- Compose
 
 ## Projects
 
