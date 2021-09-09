@@ -42,9 +42,3 @@
 [Link](https://github.com/keelim/nandaDiagnosis)
 - Project CNU Bus
 [Link](https://github.com/keelim/project_cnuBus)
-  
-- Google Play
-[Link](https://play.google.com/store/apps/developer?id=keel_im)
-  
-  
-  
