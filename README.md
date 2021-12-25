@@ -34,6 +34,7 @@
 ## Projects
 
 - Improving Android Framework with refactoring anti-patterns - KSC2020 [Link](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10529930)
+- 정보를 똑똑하게 저장하는 방법 URLS [Link](https://github.com/keelim/urls)
 - Project Nanda Diagnosis
 [Link](https://github.com/keelim/nandaDiagnosis)
 - Project CNU Bus
