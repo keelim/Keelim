@@ -39,11 +39,3 @@
 [Link](https://github.com/keelim/nandaDiagnosis)
 - Project CNU Bus
 [Link](https://github.com/keelim/project_cnuBus)
-
-## Tech blog
-
-[기술 블로그](https://keelim.tistory.com) 
-
-[멀티 모듈 공통 gradle 그리고 ktlint 적용을 해보자](https://keelim.tistory.com/entry/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EB%A9%80%ED%8B%B0-%EB%AA%A8%EB%93%88-%EA%B3%B5%ED%86%B5-gradle-%EA%B7%B8%EB%A6%AC%EA%B3%A0-ktlint-%EC%A0%81%EC%9A%A9%EC%9D%84-%ED%95%B4%EB%B3%B4%EC%9E%90)
-
-[컴포즈로 조금씩 바꿔보자. (with Progress bar)](https://keelim.tistory.com/entry/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%BB%B4%ED%8F%AC%EC%A6%88%EB%A1%9C-%EC%A1%B0%EA%B8%88%EC%94%A9-%EB%B0%94%EA%BF%94%EB%B3%B4%EC%9E%90-with-Progress-bar)
