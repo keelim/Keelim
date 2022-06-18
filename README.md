@@ -1,41 +1,26 @@
-# 김재현
+# 김재현 (Keelim)
 
 ## Android Developer
-
-![keelim github stats](https://github-readme-stats.vercel.app/api?username=keelim&show_icons=true&show_icons=true&theme=radical)
-
-## Languages
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-
-### for mock
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## Tools
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-
-## Other
-
-![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ## Now Studying
 
-- Flow(StateFlow, SharedFlow)
-- Hilt
-- Clean Architecture
-- Compose
-
-## Projects
-
-- Improving Android Framework with refactoring anti-patterns - KSC2020 [Link](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10529930)
-- 정보를 똑똑하게 저장하는 방법 URLS [Link](https://github.com/keelim/urls)
-- Project Nanda Diagnosis
-[Link](https://github.com/keelim/nandaDiagnosis)
-- Project CNU Bus
-[Link](https://github.com/keelim/project_cnuBus)
+- Java 
+  - JVM
+- Kotlin
+  - 1.7.0
+  - RxJava -> Coroutine
+  - Flow
+  - Kotlin DSL
+- Gradle
+  - BuildSrc/VersionCatalog
+  - MultiModule
+- Android
+  - ViewSystem/Compose
+  - Material
+  - Jetpack
+- Firebase
+  - others...
