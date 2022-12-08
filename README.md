@@ -1,26 +1,16 @@
-# 김재현 (Keelim)
+# Keelim
 
-## Android Developer
+## Now
+- **Android**
+- keep an eye on **KMM**
 
-## Tools
+## [Studying](https://github.com/keelim/Keelim-Knowledge-Vault)
+- **Android** / **Jetpack**
+- **Kotlin** (Coroutine, Flow, Compose)
+- **code readability**
+- **Basic Computer Science** (Network, Database, OS)
+- **communication | soft skill** (with developer, designer, product manager, project manager)
+- **financial engineering**
 
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-
-## Now Studying
-
-- Java 
-  - JVM
-- Kotlin
-  - 1.7.0
-  - RxJava -> Coroutine
-  - Flow
-  - Kotlin DSL
-- Gradle
-  - BuildSrc/VersionCatalog
-  - MultiModule
-- Android
-  - ViewSystem/Compose
-  - Material
-  - Jetpack
-- Firebase
-  - others...
+## My Developer Attitude
+- ⏯
